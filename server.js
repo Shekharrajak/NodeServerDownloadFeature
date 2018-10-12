@@ -22,5 +22,5 @@ app.get('/createFile', (req, res) => {
     writeStream.write("Thank You.");
     writeStream.end();
 
-    res.send('File is generated. Click <a href="/resources/dynamic_file.txt"> here </a> to download the file.');
+    res.send('File is generated. Click <a href="/resources/dynamic_file.txt"> here </a> to see the file. Save/download the file using ctrl+s');
 });
