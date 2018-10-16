@@ -6,3 +6,8 @@ A node server with express module to serve static or dynamically generated files
 After generating the file we can have get request to see the file content in web browser
 (if it is txt, md, etc which can be open in browser ) or it is pop the window to save the file (it will be for excel , pdf file).
 s
+
+# Run
+
+* `npm install`
+* `node server.js`
