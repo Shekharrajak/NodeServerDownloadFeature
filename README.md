@@ -11,3 +11,4 @@ s
 
 * `npm install`
 * `node server.js`
+* Go to `localhost:1729` 
